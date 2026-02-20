@@ -1,10 +1,10 @@
-## Disney+ Hotstar Clone
+# Disney+ Hotstar Clone
 
 A Disney+ Hotstar inspired web app built using React and Tailwind CSS, with movie data fetched from The Movie Database (TMDB) API.
 
 This project was created to practice real-world React concepts like component structure, API handling, UI design, and responsive layouts.
 
-# Features
+## Features
 
 Modern UI inspired by Disney+ Hotstar
 
@@ -18,7 +18,7 @@ Dynamic movie sections
 
 Hover effects & smooth UI
 
-# Tech Stack
+## Tech Stack
 
 React
 
